@@ -1,13 +1,15 @@
 # E-Commerce Data Cleaning Project
 
 ## Objective
-Clean and prepare raw e-commerce sales data for analysis in Power BI.
-
+Clean and prepare raw e-commerce sales data for analysis in Excel & Power BI.
+# Raw DataSet
+https://github.com/Aliciaportfolio/E-Commerce-Data-Cleaning-Project/issues/2#issue-4588381760
 ## Dataset Overview
 - **Rows**: 1,200 orders
 - **Columns**: OrderID, Date, CustomerID, Product, Quantity, UnitPrice, ShippingAddress, PaymentMethod, OrderStatus, TrackingNumber, ItemsInCart, CouponCode, ReferralSource, TotalPrice
 - **Date Range**: 2023-2025
-
+# Excel Screenshot
+https://github.com/Aliciaportfolio/E-Commerce-Data-Cleaning-Project/issues/3#issue-4588446274
 ## Cleaning Steps Applied
 1. Promoted Headers
 2. Changed Type - set:
@@ -20,6 +22,8 @@ Clean and prepare raw e-commerce sales data for analysis in Power BI.
 4. Removed Duplicates
 5. Filtered Rows - removed test orders
 6. Trimmed Text - cleaned Product and ShippingAddress fields
+# Power BI Query
+https://github.com/Aliciaportfolio/E-Commerce-Data-Cleaning-Project/issues/1#issue-4588168520
 
 ## Key Transformations
 - Standardized CouponCode: SAVE10, FREESHIP, NONE
