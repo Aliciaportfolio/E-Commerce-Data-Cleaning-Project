@@ -1,4 +1,4 @@
-# E-Commerce Data Cleaning Project
+# E-Commerce Data Cleaning (Project 1)
 
 ## Objective
 Clean and prepare raw e-commerce sales data for analysis in Excel & Power BI.
